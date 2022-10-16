@@ -1,21 +1,26 @@
-# Module-18-Challenge
-
-Build a blockchain ledger system
-
-## Determine a person's emotion based on facial pattern analysis
-
-### 1. An optimized NN wil be determined by implementation of different ML classifiers
-
----
+# Module-18-Challenge: Build a blockchain ledger system
 
 ![https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/eth%20blockchain%20image.jpeg](https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/eth%20blockchain%20image.jpeg)
 
+## 1. Overview of the Project
+
+    Build a blockchain ledger system that can be used to track transactions between two parties. The system will be able to create new transactions, mine new blocks, and verify the chain. The system will also be able to verify transactions using digital signatures.
+
+## 2. Steps Involved
+
+    1. Create a Record Data Class
+    2. Modify the Existing Block Data Class to Store Record Data
+    3. Add Relevant User inputs to the Streamlit Interface
+    4. Test the Pychain Ledger by Storing Records
 ---
 
 ## Summary of Findings
 
+    1. The Pychain Ledger is able to store records and verify the chain.
+
 ![https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/screenshot%20streamlit.jpg](https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/screenshot%20streamlit.jpg)
 
+    2. The Pychain Ledger is able to verify transactions using digital signatures.
 
 ![https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/streamlit%20validate%20chain.jpg](https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/streamlit%20validate%20chain.jpg)
 
@@ -28,8 +33,7 @@ Build a blockchain ledger system
 
 [![Anaconda](https://img.shields.io/badge/Anaconda-2021.05-blue)](https://www.anaconda.com/products/individual)
 
-# Anaconda 
-
+# Anaconda
 
 [![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-3670A0?style=for-the-badge&logo=Jupyter&logoColor=ffdd54)](https://jupyter.org/)
 
