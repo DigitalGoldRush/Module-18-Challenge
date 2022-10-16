@@ -73,7 +73,7 @@ class Block:
 
     # @TODO
     # Rename the `data` attribute to `record`, and set the data type to `Record`
-    data: Record
+    record: Record
 
     creator_id: int
     prev_hash: str = "0"
@@ -147,7 +147,7 @@ class PyChain:
 @st.cache(allow_output_mutation=True)
 def setup():
     print("Initializing Chain")
-    return PyChain([Block("Genesis", 0)])
+    return PyChain([Block("Genesis", creator_id=0)])
 
 
 st.markdown("# PyChain")
@@ -192,13 +192,11 @@ if st.button("Add Block"):
     # Update `new_block` so that `Block` consists of an attribute named `record`
     # which is set equal to a `Record` that contains the `sender`, `receiver`,
     # and `amount` values
-    new_block = Block(
-        Record(sender,
-        receiver, 
-        amount)
-    )    
-  
+
+    new_block = Block(record=Record(sender, receiver, amount), creator_id=1, prev_hash=prev_block_hash)
+
     pychain.add_block(new_block)
+    
     st.balloons()
 
 ################################################################################
