@@ -6,22 +6,6 @@ Build a blockchain ledger system
 
 ### 1. An optimized NN wil be determined by implementation of different ML classifiers
 
-- #### Dataset from [Kaggle](https://www.kaggle.com/code/nguyendaitruongthanh/facial-emotion-detection-with-cnn/data) contains different expressions of the human face (happy, sad, angry, neutral, surprise, fear, disgust)
-
-- #### The training set contains 28,709 images and the test set contains 7,177 images of facial expressions
-
-- #### (We can add ML optimization in here later)
-
-### 2. Picture is taken in Streamlit and sent to our optimized Neural Network
-
-### 3. The Neural Network will determine the emotion of the person in the picture
-
-### 4. Applications of emotional recognition can guide financial institutions into providing intelligent-driven financial service
-
-- ### Can skip learning the customer experience and get real-time feedback on customer satisfaction with service
-
-- ### Unhappy customers can be identified and can be forwarded directly to the senior bank manager
-
 ---
 
 ![https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/eth%20blockchain%20image.jpeg](https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/eth%20blockchain%20image.jpeg)
@@ -29,6 +13,11 @@ Build a blockchain ledger system
 ---
 
 ## Summary of Findings
+
+![https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/screenshot%20streamlit.jpg](https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/screenshot%20streamlit.jpg)
+
+
+![https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/streamlit%20validate%20chain.jpg](https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/streamlit%20validate%20chain.jpg)
 
 ---
 
