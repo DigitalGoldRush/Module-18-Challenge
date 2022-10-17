@@ -12,6 +12,7 @@
     2. Modify the Existing Block Data Class to Store Record Data
     3. Add Relevant User inputs to the Streamlit Interface
     4. Test the Pychain Ledger by Storing Records
+    5. Launch App on Streamlit
 ---
 
 ## Summary of Findings
@@ -31,11 +32,7 @@
 [![Python 3.7.13](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)]([https://www.python.org/downloads/release/python-3912/)
 [![Python](https://img.shields.io/badge/Python-3.9.12-blue)](https://www.python.org/downloads/release/python-3912/)
 
-[![Anaconda](https://img.shields.io/badge/Anaconda-2021.05-blue)](https://www.anaconda.com/products/individual)
-
-# Anaconda
-
-[![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-3670A0?style=for-the-badge&logo=Jupyter&logoColor=ffdd54)](https://jupyter.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
 [![Streamlit](https://img.shields.io/badge/Streamlit-0.88.0-3670A0?style=for-the-badge&logo=Streamlit&logoColor=ffdd54)](https://streamlit.io/)
 
@@ -45,27 +42,25 @@
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DigitalGoldRush?tab=repositories)
 
-streamlit 0.88.0  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/digitalgoldrush/project-2-emotional-recognition/main/Emotion_recognition.ipynb)
-
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ---
 
 ## Installation Guide
 
-### 1. Run the program in Google Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com)
+### 1.Launch APP --> [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://digitalgoldrush-module-18-challenge-mod-18-challenge-w8dpyv.streamlitapp.com/)
 
 ### 2. To install Streamlit on your local machine, run the following command in your terminal
 
 ```bash
-pip install streamlit
-streamlit hello
+    pip install streamlit
+    streamlit hello
 ```
 
 ---
 
 ## Contributors
 
-[![Python](https://img.shields.io/badge/Michael_Dionne-LinkedIn-blue)](https://www.linkedin.com/in/michael-dionne-b2a1b61b/)
+[![linkedin](https://img.shields.io/badge/Michael_Dionne-LinkedIn-blue)](https://www.linkedin.com/in/michael-dionne-b2a1b61b/)
 
 ---
