@@ -17,6 +17,9 @@
 
 ## Summary of Findings
 
+### Launch APP --> [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://digitalgoldrush-module-18-challenge-mod-18-challenge-w8dpyv.streamlitapp.com/)
+
+
     1. The Pychain Ledger is able to store records and verify the chain.
 
 ![https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/screenshot%20streamlit.jpg](https://github.com/DigitalGoldRush/Module-18-Challenge/blob/main/Resources/screenshot%20streamlit.jpg)
@@ -48,9 +51,7 @@
 
 ## Installation Guide
 
-### 1.Launch APP --> [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://digitalgoldrush-module-18-challenge-mod-18-challenge-w8dpyv.streamlitapp.com/)
-
-### 2. To install Streamlit on your local machine, run the following command in your terminal
+### To install Streamlit on your local machine, run the following command in your terminal
 
 ```bash
     pip install streamlit
